@@ -15,4 +15,9 @@ Using the two basic web formatting languages of HTML and CSS, I utilized the too
 
 The initial version of the code for the webpages entitled "Horiseon" contained redundancies and undescriptive "div" tags which would have hampered subsequent efforts to add to, or recode the website. I attempted to remove the redundant tags, allowing the tags which actually named the parts of the page, such as "Header", "Footer", etc., to carry the descriptive load. I also was able to simplify the CSS code, consolidating similar HTML class elements for clarity and brevity. All this was to be done without changing the physical layout or text of the Horiseon website in any way. The exercise was specifically to "refactor", as opposed to "change" the code; to me, this meant paring away unnecessary tags using the code that was already there, rather than rewriting fundamental parts of the code. Finally, for maximum accessibility for all users, I added Alt Attributes, which aid visually-impaired users of the web, as well as allowing for a useful description if an image file cannot be loaded. 
 
+
+## Screenshot
+![](images/Homework 1 screenshot.png)
+
+
 This will be a valuable experience moving forward. Besides the practice in refactoring code, it was illuminating to read and try to emulate a professionally-produced README file such as the one for Visual Studio Code itself: Http://code.visualstudio.com. It was also invaluable to use GitHub, learning the "Git" commands and using them in the proper order to modify and save versions of my file as my work progressed. I can see how valuable a collaborative tool it will be going forward.
